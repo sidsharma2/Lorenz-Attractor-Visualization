@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+.eggs/
+*.egg-info/
+*.egg
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# Manim - keep videos but ignore partial files
+lorenz_manim/media/videos/*/partial_movie_files/
+lorenz_manim/media/texts/
+lorenz_manim/media/Tex/
+lorenz_manim/media/images/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# MATLAB
+*.asv
+*.m~
+
+# Logs
+*.log

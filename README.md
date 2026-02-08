@@ -2,6 +2,12 @@
 
 A visualization project exploring the Lorenz system and deterministic chaos, featuring both interactive web-based simulations and cinematic Manim animations.
 
+https://github.com/user-attachments/assets/lorenz_manim/media/videos/lorenz_scene/720p30/LorenzChaos.mp4
+
+<video src="lorenz_manim/media/videos/lorenz_scene/720p30/LorenzChaos.mp4" controls="controls" style="max-width: 100%;">
+  Your browser does not support the video tag.
+</video>
+
 ---
 
 ## Background: The Lorenz Attractor
